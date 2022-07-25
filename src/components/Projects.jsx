@@ -1,7 +1,7 @@
 import React from 'react'
 import Chat from '../assets/projects/chat.png'
 import videoSharing from '../assets/projects/video-sharing.png'
-import discord from '../assets/projects/discord.png'
+import Reddit from '../assets/projects/Reddit.png'
 import google from '../assets/projects/google-clone.png'
 import { BsGithub } from 'react-icons/bs'
 import web3 from '../assets/projects/web.png'
@@ -23,18 +23,18 @@ const Projects = () => {
     },
     {
       id: 3,
+      src: Reddit,
+      name: "Reddit Clone",
+      link: 'https://github.com/Bkmakwana2002/reddit-clone'
+    },
+    {
+      id: 4,
       src: videoSharing,
       name: "Video Sharing App",
       link: 'https://github.com/Bkmakwana2002/video-sharing'
     },
     {
       id: 5,
-      src: discord,
-      name: "discord Clone",
-      link: 'https://github.com/Bkmakwana2002/Discord-Clone'
-    },
-    {
-      id: 6,
       src: google,
       name: "Google Search Clone",
       link: 'https://github.com/Bkmakwana2002/Google-Clone'
