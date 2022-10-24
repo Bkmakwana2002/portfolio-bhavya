@@ -1,5 +1,5 @@
 import React from 'react'
-import heroImage from '../assets/img.jpg'
+import heroImage from '../assets/img.webp'
 import { MdOutlineKeyboardArrowRight } from "react-icons/md"
 import { Link } from 'react-scroll'
 
@@ -11,7 +11,7 @@ const Home = () => {
         >
             <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row md:space-x-10">
                 <div className="flex flex-col justify-center h-full">
-                    <h2 className="md:text-6xl text-4xl font-bold text-yellow-300">
+                    <h2 className="md:text-6xl mt-32 text-4xl font-bold text-yellow-300">
                         I'm a Full Stack Web and Blockchain Developer
                     </h2>
                     <p className="text-gray-300 py-4 max-w-md text-xl">
