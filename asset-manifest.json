@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio-bhavya/static/css/main.667d0b52.css",
+    "main.js": "/portfolio-bhavya/static/js/main.7fe6003a.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio-bhavya/static/js/787.1ed0c42c.chunk.js",
+    "static/media/dalle.png": "/portfolio-bhavya/static/media/dalle.8263eff9970b823c07b2.png",
+    "static/media/web.png": "/portfolio-bhavya/static/media/web.df20cbc7cdcc65b90223.png",
+    "static/media/video-sharing.png": "/portfolio-bhavya/static/media/video-sharing.c228290dee44035e6bfc.png",
+    "static/media/crypto.png": "/portfolio-bhavya/static/media/crypto.16cecbbcb92c8fcb66d9.png",
+    "static/media/img.webp": "/portfolio-bhavya/static/media/img.89cddf32cc42cb58e4b9.webp",
+    "static/media/Reddit.png": "/portfolio-bhavya/static/media/Reddit.0483acae426642c999be.png",
+    "static/media/chat.png": "/portfolio-bhavya/static/media/chat.62c7ab91e12e6eef15ab.png",
+    "index.html": "/portfolio-bhavya/index.html",
+    "main.667d0b52.css.map": "/portfolio-bhavya/static/css/main.667d0b52.css.map",
+    "main.7fe6003a.js.map": "/portfolio-bhavya/static/js/main.7fe6003a.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio-bhavya/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.667d0b52.css",
+    "static/js/main.7fe6003a.js"
+  ]
+}
